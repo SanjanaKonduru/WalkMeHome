@@ -1,6 +1,6 @@
 # WalkMeHome
-Maps a route home using data crowd sourced reporting. 
-WalkMeHome.global
+
+
 “Am I safe?” 
 Maybe you know you’re way around maybe you are new to an area. For women finding the saftest way to simply walk outside is something that we have to think about as commonly as we do traffic. 
 As a team we wanted to design a platform for women to mark where they have felt uncomfortable and a way to navigate through the world with other women’s experience taken into account. How would you advise your friend to get home? “This road is well lit, stay away from that bus stop in front of the liquor store.” What would someone want their daughter to know? A family member?
